@@ -1,16 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akintoye Adesomoju
 ==========================================================================================================================================
 
-Data Scientist / Software Engineer
+Software Engineer
 -----------------------------
-
-Moved by the capabilities of data and how it can be used for business solutions, I am eager to learn more. I am skilled in Python, SQL, Lua, and R programming languages. I am also interested in software development and continue to build my foundation in JavaScript, HTML, React, Angular & Nodejs!
 
 * 🌍  I'm based in Atlanta GA
 * ✉️  You can contact me at [aadesomoju001@gmail.com](mailto:aadesomoju001@gmail.com)
-* 🧠  I'm learning JavaScript and Lua as well as complex data structures and algorithms
-* 🤝  I'm open to collaborating on intermediate level python and lua projects as freelance opportunities to expand my skillset
-* ⚡  I may not know everything yet....but I can always find a solution
+* 🧠  I'm learning system designs and why using certain tools for certain projects are preferred
 
 ### Skills
 
